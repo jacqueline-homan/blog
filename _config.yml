@@ -1,0 +1,12 @@
+# Site settings
+title: Just Another Developer
+email: jacquelinehoman7@gmail.com
+description: "A Journey in Learning to Code."
+baseurl: "blog"
+url: "http://yourdomain.com"
+twitter_username: jacquelinehoman
+github_username:  jacqueline-homan
+
+# Build settings
+markdown: kramdown
+permalink: pretty
